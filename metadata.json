@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance & Analytics API",
+  "description": "Production-grade Employee Attendance and Analytics API built with FastAPI, PyMongo, and MongoDB featuring overnight shifts, atomic concurrency, and database-side analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
